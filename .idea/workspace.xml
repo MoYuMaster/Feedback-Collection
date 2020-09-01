@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c609769-d291-48b5-b30d-73a1ff081ce1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRoutes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/passport.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +32,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ERICL\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\NodeWithReact\server\client\src\components" />
       <recent name="E:\NodeWithReact\server\services" />
     </key>
   </component>
@@ -44,11 +54,31 @@
       <option name="presentableId" value="Default" />
       <updated>1598161180506</updated>
       <workItem from="1598161181615" duration="6389000" />
-      <workItem from="1598211996771" duration="11175000" />
+      <workItem from="1598211996771" duration="11822000" />
+      <workItem from="1598305674394" duration="3755000" />
+      <workItem from="1598482955147" duration="1341000" />
+      <workItem from="1598487011468" duration="14065000" />
+      <workItem from="1598572871170" duration="3262000" />
+      <workItem from="1598594935024" duration="5006000" />
+      <workItem from="1598661756922" duration="2836000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-803" y="743" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598573530966">
+      <screen x="-1080" y="0" width="1080" height="1880" />
+    </state>
+    <state x="-803" y="743" key="#com.intellij.fileTypes.FileTypeChooser/-1080.0.1080.1880/0.0.1920.1040@-1080.0.1080.1880" timestamp="1598573530966" />
+    <state x="-1039" y="582" key="SettingsEditor" timestamp="1598491667422">
+      <screen x="-1080" y="0" width="1080" height="1880" />
+    </state>
+    <state x="-1039" y="582" key="SettingsEditor/-1080.0.1080.1880/0.0.1920.1040@-1080.0.1080.1880" timestamp="1598491667422" />
+    <state x="-877" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1598691257368">
+      <screen x="-1080" y="0" width="1080" height="1880" />
+    </state>
+    <state x="-877" y="435" width="672" height="678" key="search.everywhere.popup/-1080.0.1080.1880/0.0.1920.1040@-1080.0.1080.1880" timestamp="1598691257368" />
   </component>
 </project>

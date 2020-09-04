@@ -8,7 +8,7 @@ import reduxThunk from "redux-thunk";
 import App from "./components/App";
 import reducers from "./reducers";
 
-// Develop only
+// // Develop only
 import axios from 'axios';
 window.axios = axios;
 
@@ -20,6 +20,3 @@ ReactDOM.render(
   </Provider>,
   document.querySelector("#root")
 );
-
-console.log("Stripe key is", process.env.REACT_APP_STRIPE_KEY);
-console.log("Environment is", process.env.NODE_DEV);
